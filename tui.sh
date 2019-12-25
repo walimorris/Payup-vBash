@@ -2,12 +2,12 @@
 
 # Payup was first written in C and Python, finishing up with a Bash script.  
 # After reviewing the implementation, it seemed the process could be solely 
-# written with a  Bash script. This solution provides a simple solution to do 
+# written with a  Bash script. This solution provides a simple program to do 
 # what was written initially in C and Python. It requires less dependencies, 
 # less code and seems to be a better solution. Currently, some improvements 
 # would be to implement cron to run this script whenever needed/wanted. Some
 # work around would be figuring out how cron could run such a process. 
-# This is Payup v-Bash, utilizng the dialog library for simple terminal user
+# This is Payup-vBash, utilizing the dialog library for simple terminal user
 # interfaces and notify-send to send the desktop notifications. Please review
 # the READ-ME file downloaded with this package for more information
 
