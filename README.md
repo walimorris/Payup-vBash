@@ -24,6 +24,8 @@ You can decide to skip this install and update all together, either way you'll b
 with setting up your bill. You'll also have the decision to keep the old bill or create a new one. If you create a 
 new bill, you'll be asked to input the bill information in boxes like these: 
 
+![Payup -vBash!](shot5.png)
+
 
 
 
