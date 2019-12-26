@@ -20,6 +20,13 @@ on their own from there.
 
 ![Payup -vBash!](shot2.png)
 
+You can decide to skip this install and update all together, either way you'll be notified and prompted to continue 
+with setting up your bill. You'll also have the decision to keep the old bill or create a new one. If you create a 
+new bill, you'll be asked to input the bill information in boxes like these: 
+
+
+
+
 
 
 
