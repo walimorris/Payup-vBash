@@ -26,6 +26,10 @@ new bill, you'll be asked to input the bill information in boxes like these:
 
 ![Payup -vBash!](shot5.png)
 
+Payup -vBash notifications are setup by saving input information into a filed called tui.txt, this can be changed to 
+anything by editing the bash script. If a bill is updated then tui.txt will be overwritten, otherwise all bill info 
+will remain the same until it's updated. The notification is almost identical to the the original Payup program. 
+
 
 
 
