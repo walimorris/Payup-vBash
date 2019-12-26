@@ -15,4 +15,11 @@ be taken care of by answering a few short question.
 
 ![Payup -vBash!](shot1.png)
 
+If this is your first time or you want to run a quick update before creating a new bill notification, things will run 
+on their own from there. 
+
+![Payup -vBash!](shot2.png)
+
+
+
 
