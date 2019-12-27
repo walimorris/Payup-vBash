@@ -33,7 +33,10 @@ will remain the same until it's updated. The notification is almost identical to
 ![Payup -vBash!](Payup-vbash.png)
 
 **Wrapping Up** 
+From the command line: 
 
+`git clone https://github.com/walimorris/Payup-vBash.git`
+`. ./tui.sh`
 
 
 
