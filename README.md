@@ -37,6 +37,8 @@ From the command line:
 
 `git clone https://github.com/walimorris/Payup-vBash.git`
 
+`chmod +x tui.sh`
+
 `. ./tui.sh`
 
 
