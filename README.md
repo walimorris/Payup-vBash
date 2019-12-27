@@ -1,7 +1,8 @@
 # Payup-vBash
 Payup -vBash is, mostly, the same program initially written in C and Python called Payup. A bill notifier for your personal PC.
 
-By: Wali Morris; 
+By: Wali Morris
+
 12/26/2019
 
 Payup -vBash is the same program I first wrote with C and Python, but after reviewing the program I decided it could be
@@ -34,6 +35,7 @@ will remain the same until it's updated. The notification is almost identical to
 ![Payup -vBash!](Payup-vbash.png)
 
 **Wrapping Up** 
+
 From the command line: 
 
 `git clone https://github.com/walimorris/Payup-vBash.git`
