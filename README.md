@@ -38,15 +38,6 @@ will remain the same until it's updated. The notification is almost identical to
 
 Run the following commands in the terminal to use Payup -vBash:  
 
-`git clone https://github.com/walimorris/Payup-vBash.git`
-
-`chmod +x tui.sh`
-
-`. ./tui.sh`
-
-
-
-
-
-
-
+`git clone https://github.com/walimorris/Payup-vBash.git
+ chmod +x tui.sh
+ . ./tui.sh`
