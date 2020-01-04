@@ -54,5 +54,3 @@ if [ "$?" = "0" ]; then
     notify-send "                                              MADE WITH BASH " "$notification"
 fi
 clear
-
-
