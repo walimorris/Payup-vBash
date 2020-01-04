@@ -41,7 +41,7 @@ Run the following commands in the terminal to use Payup -vBash:
 ```
 git clone https://github.com/walimorris/Payup-vBash.git
  
- chmod +x tui.sh
+chmod +x tui.sh
  
- . ./tui.sh
+. ./tui.sh
  ```
