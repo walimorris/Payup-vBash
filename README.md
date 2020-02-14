@@ -13,7 +13,7 @@ way to produce simple GUIs for the Linux command line(depending on what you're a
 **HOW DOES IT WORK**
 
 Payup -vBash was made to be a small and easy to use program. From the beginning, there are some small processes run to 
-automate setting up dialog if it's your first time running the program. Set-up will be taken care of by answering a few short question. 
+automate setting up dialog if it's your first time running the program. Set-up is taken care of by answering a few short questions. 
 
 ![Payup -vBash!](shot1.png)
 
